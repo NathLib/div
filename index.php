@@ -6,7 +6,7 @@
   <body>
     
   <h1>Wellcome to Divinity</h1>
-  <p>Web is under development</p>
+  <p>Web is under development test</p>
     
     </body>
   
